@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004068310951",
+    "project_id": "hack-sie-4e221",
+    "storage_bucket": "hack-sie-4e221.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004068310951:android:1cede5c7137ca066027082",
+        "android_client_info": {
+          "package_name": "com.example.hack_sie25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "cheie"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
